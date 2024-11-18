@@ -1,0 +1,53 @@
+# FRONTEND AND UI/UX UPDATE:
+
+
+1. Website Development:
+   - Created a comprehensive website showcasing JustStock.Pro.
+   - Included detailed descriptions and information about the software's features.
+   - Integrated various options for trading in the stock market, cryptocurrencies, and more.
+   - Ensured the strategies and plans are tailored to beginners, providing a user-friendly experience.
+
+2. Dashboard and Functionalities:
+   - Crafted personalized dashboards for individual users, enhancing their experience.
+   - Incorporated diverse trade options within the dashboard.
+   - Implemented operations including Buy, Sell, Hold, and Expert Advice functionalities.
+   - Enabled convenient profit acceptance through multiple payment options including card transactions.
+   - Introduced various investment options, enriching the user's investment journey.
+
+3. User-Centric Approach:
+   - Focused on intuitive UI/UX design to simplify navigation and usage for all users.
+   - Ensured a seamless experience for beginners, guiding them through the trading processes.
+   - Employed clear and accessible language to explain strategies and plans, catering to users at all levels of expertise.
+   - Prioritized user feedback to continually refine and improve the platform's usability.
+
+4. Responsive Design:
+   - Implemented a responsive design approach, ensuring compatibility across various devices and screen sizes.
+   - Optimized performance to guarantee smooth functionality across different browsers and platforms.
+   - Strived for a visually appealing interface to engage and retain user interest.
+
+5. Security Measures:
+   - Integrated robust security measures to safeguard user data and transactions.
+   - Employed encryption and authentication protocols to ensure a secure trading environment.
+   - Regularly updated and maintained security features to stay ahead of potential vulnerabilities.
+
+----------------------------------------------------------------------------------
+# TOOLS AND TECHNOLOGIES :
+HTML,CSS,JAVASCRIPT,BOOTSTARP,VANILA JAVASCRIPT,TRADEVIEW CHART, GOOGLE FONT.CO, JQUERY, TAILWIND CSS, ANGULAR,FIGMA,WIX COMPANY
+----------------------------------------------------------------------------------
+# IMAGEWISE DESCRIPTION:
+   1.png
+- Main page of JustStock.pro
+-Gives description about software and operations
+- option : about, subscription, markets and Login
+
+   2.png , 4.png ,5.png
+- Telling about current prices about stocks
+- And description about our mobile app
+
+  7.png and 8.png
+- dashboard of JustStock.Pro
+-Chart and other options related to it.  Also other investment options
+----------------------------------------------------------------------------------
+Hi 
+   You can add this information in slides.
+//vishwajeetchavan
